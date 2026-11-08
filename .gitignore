@@ -1,0 +1,7 @@
+.build/
+releases/
+Verification/
+Publication/
+RESULTS.md
+specification-record.json
+.DS_Store
